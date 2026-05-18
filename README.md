@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Generative AI with Golang**
 
-- 💬 Ask me about **C#, .Net Core, Cloud computing, Docker, AWS**
+- 💬 Ask me about **Python, NodeJS, C#, .Net Core, Cloud computing, Docker, AWS**
 
 - ⚡ Fun fact **Just crazy about technologies!**
 
